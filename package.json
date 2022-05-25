@@ -1,5 +1,5 @@
 {
-  "name": "tokio-bot-olduser",
+  "name": "Jack-bot-Ashking",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -23,16 +23,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Jetushack3/tokio-bot-olduser",
+  "homepage": "https://github.com/Ashking92/tokio-bot-olduser",
   "author": {
-    "name": "OLDUSER"
+    "name": "Ashking"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jetushack3/tokio-bot-olduser.git"
+    "url": "git+https://github.com/Ashking92/tokio-bot-olduser.git"
   },
   "bugs": {
-    "url": "https://github.com/Jetushack3/tokio-bot-olduser/issues"
+    "url": "https://github.com/Ashking92/tokio-bot-olduser/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
