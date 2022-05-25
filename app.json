@@ -1,7 +1,7 @@
 {
-  "name": "tokio-bot-v2",
+  "name": "jack-bot-v2",
   "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/Jetushack4/tokio-bot-v2",
+  "repository": "https://github.com/Ashking92/tokio-bot-v2.git",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"]
 }
